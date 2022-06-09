@@ -1,0 +1,32 @@
+{
+	"storyName": "Mouse.exe",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "walk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Blinded-by-sin",
+			"sus",
+			[
+				142,
+				142,
+				142
+			]
+		]
+	],
+	"weekCharacters": [
+		"mort",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mouse Week"
+}

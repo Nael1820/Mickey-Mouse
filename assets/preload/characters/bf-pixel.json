@@ -104,19 +104,19 @@
 	"image": "characters/bfPixel",
 	"position": [
 		0,
-		350
+		490
 	],
 	"healthicon": "bf-pixel",
 	"flip_x": true,
 	"healthbar_colors": [
-		123,
-		214,
-		246
+		190,
+		190,
+		190
 	],
 	"camera_position": [
 		50,
 		-60
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 3.50000000000001
 }

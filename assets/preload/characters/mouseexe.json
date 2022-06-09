@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5
+			],
+			"name": "Mouseexe idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mouseexe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mouseexe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mouseexe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mouseexe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "Mouseexe shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mouseexe",
+	"position": [
+		80,
+		210
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		222,
+		222,
+		222
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

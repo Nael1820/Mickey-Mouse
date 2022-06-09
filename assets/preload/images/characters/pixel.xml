@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixel.png">
+<SubTexture name="pixel idle0000" x="353" y="324" width="312" height="286" frameX="-84" frameY="-84" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel idle0001" x="606" y="625" width="308" height="271" frameX="-90" frameY="-99" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel idle0002" x="572" y="901" width="332" height="255" frameX="-74" frameY="-115" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel idle0003" x="904" y="901" width="336" height="243" frameX="-72" frameY="-127" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel idle0004" x="1021" y="0" width="316" height="271" frameX="-82" frameY="-99" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel idle0005" x="715" y="0" width="306" height="286" frameX="-90" frameY="-84" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel right0000" x="715" y="286" width="306" height="277" frameX="-85" frameY="-85" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel right0001" x="300" y="625" width="306" height="273" frameX="-85" frameY="-85" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel right0002" x="0" y="625" width="300" height="276" frameX="-85" frameY="-85" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel left0000" x="1021" y="271" width="269" height="268" frameX="-64" frameY="-81" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel left0001" x="0" y="901" width="281" height="267" frameX="-59" frameY="-81" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel up0000" x="0" y="0" width="360" height="324" frameX="-27" frameY="-46" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel up0001" x="360" y="0" width="355" height="309" frameX="-31" frameY="-61" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel up0002" x="0" y="324" width="353" height="301" frameX="-33" frameY="-69" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel down0000" x="281" y="901" width="291" height="264" frameX="-80" frameY="-86" frameWidth="422" frameHeight="370" />
+<SubTexture name="pixel down0001" x="1021" y="539" width="300" height="268" frameX="-73" frameY="-86" frameWidth="422" frameHeight="370" />
+</TextureAtlas>

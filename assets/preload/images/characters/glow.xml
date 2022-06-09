@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glow.png">
+<SubTexture name="glow idle0000" x="0" y="0" width="424" height="429" frameX="-35" frameY="-31" frameWidth="494" frameHeight="467" />
+<SubTexture name="glow idle0001" x="424" y="0" width="423" height="429" frameX="-37" frameY="-31" frameWidth="494" frameHeight="467" />
+<SubTexture name="glow idle0002" x="0" y="429" width="425" height="428" frameX="-34" frameY="-31" frameWidth="494" frameHeight="467" />
+<SubTexture name="glow idle0003" x="847" y="0" width="424" height="429" frameX="-35" frameY="-31" frameWidth="494" frameHeight="467" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mouseexe.png"><SubTexture name="Mouseexe idle0000" x="1345" y="0" width="340" height="408" frameX="-47" frameY="-120" frameWidth="502" frameHeight="531" />
+<SubTexture name="Mouseexe idle0001" x="0" y="1313" width="355" height="403" frameX="-48" frameY="-110" frameWidth="502" frameHeight="531" />
+<SubTexture name="Mouseexe idle0002" x="1685" y="0" width="351" height="404" frameX="-49" frameY="-75" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe idle0003" x="977" y="426" width="349" height="422" frameX="-51" frameY="-50" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe idle0004" x="317" y="457" width="347" height="433" frameX="-53" frameY="-39" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe up0000" x="0" y="0" width="339" height="457" frameX="-20" frameY="-16" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe up0001" x="645" y="0" width="332" height="446" frameX="-20" frameY="-26" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe down0000" x="1345" y="408" width="325" height="365" frameX="-100" frameY="-113" frameWidth="512" frameHeight="496" />
+<SubTexture name="Mouseexe down0001" x="1685" y="799" width="328" height="378" frameX="-101" frameY="-99" frameWidth="512" frameHeight="496" />
+<SubTexture name="Mouseexe down0002" x="1685" y="404" width="336" height="395" frameX="-102" frameY="-81" frameWidth="512" frameHeight="496" />
+<SubTexture name="Mouseexe left0000" x="0" y="892" width="335" height="421" frameX="-77" frameY="-76" frameWidth="549" frameHeight="497" />
+<SubTexture name="Mouseexe left0001" x="0" y="457" width="317" height="435" frameX="-95" frameY="-62" frameWidth="549" frameHeight="497" />
+<SubTexture name="Mouseexe left0002" x="339" y="0" width="306" height="449" frameX="-106" frameY="-48" frameWidth="549" frameHeight="497" />
+<SubTexture name="Mouseexe right0000" x="719" y="892" width="396" height="413" frameX="-52" frameY="-59" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe right0001" x="335" y="892" width="384" height="419" frameX="-52" frameY="-53" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe right0002" x="977" y="0" width="368" height="426" frameX="-53" frameY="-46" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe shoot0000" x="1242" y="1313" width="456" height="379" frameX="-46" frameY="-96" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe shoot0001" x="795" y="1313" width="447" height="384" frameX="-48" frameY="-90" frameWidth="502" frameHeight="497" />
+<SubTexture name="Mouseexe shoot0002" x="355" y="1313" width="440" height="392" frameX="-49" frameY="-82" frameWidth="502" frameHeight="497" />
+</TextureAtlas>
